@@ -7,7 +7,7 @@
 }
 
 .container{
-    width: 1400px;
+    width: 1400px auto;
     margin: auto;
 }
 
