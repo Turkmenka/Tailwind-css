@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    font-family: "Jura", sans-serif;
+    font-weight: 600;
+    background-color: #F3EFEE;
+    color: #522917;
+}
+
+.container{
+    width: 1400px;
+    margin: auto;
+}
+
+.btn{
+    color: #F3EFEE;
+    background-color: #BC6C65;
+    border: none;
+    padding: 10px 30px;
+}
+.btn:hover{
+    background-color: #522917;
+}
+
+.discount,
+.discount .text h1,
+.discount .text p{
+    background-color: #BC6C65;
+    color: #F3EFEE;
+}
+
+.discount .btn{
+    color: #BC6C65;
+    background-color: #F3EFEE;
+    border: none;
+    padding: 10px 30px;
+}
+.discount .btn:hover{
+    color: #F3EFEE;
+    background-color: #522917;
+}
+
+.footer .icon i{
+    color: #BC6C65;
+}
+
+.footer .icon i:hover{
+    color: #522917;
+}
