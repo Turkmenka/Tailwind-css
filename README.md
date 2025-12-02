@@ -30,4 +30,4 @@ Each section — reflects the pure and natural spirit of the brand.
 
 To visually convey the brand's world of pleasant aromas to the user - combining comfort, tranquility and premiumness in one place.
 
-<img src="ef4e6c3290e.png">
+<img src="https://github.com/Turkmenka/Tailwind-css/blob/master/image.jpg?raw=true">
