@@ -31,4 +31,4 @@ Each section — reflects the pure and natural spirit of the brand.
 📱 100% fully responsive layout
 
 ## 📸 Screenshot
-<img src="https://github.com/Turkmenka/Tailwind-css/blob/master/image.jpg?raw=true">
+![Aromas For](image.jpg)
