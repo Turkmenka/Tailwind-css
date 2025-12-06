@@ -1,4 +1,7 @@
-# 🌿 Aromas For Your Home ✨
+# Aromas For Your Home ✨
+
+Elegant and minimalistic aroma diffuser website.
+Built with HTML, CSS, and Tailwind CSS.
 
 ## 🔗 Live Demo
 <a href="https://turkmenka.github.io/Tailwind-css/">Website Links</a>
