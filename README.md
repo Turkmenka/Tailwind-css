@@ -1,4 +1,4 @@
-# Aromas For Your Home ✨
+# Aromas For Your Home 
 
 Elegant and minimalistic aroma diffuser website.
 Built with HTML, CSS, and Tailwind CSS.
